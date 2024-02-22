@@ -13,7 +13,7 @@ import os
 
 from .text_to_speech import text_to_speech
 
-os.environ["OPENAI_API_KEY"] = "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"
+
 st.header("AMA")
 st.subheader("Streamlit + ChatGPT + Langchain with `stream=True`")
 
